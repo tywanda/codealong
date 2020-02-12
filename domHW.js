@@ -1,4 +1,9 @@
-document.getElementById('listItemOne').style.backgroundColor = 'green';
+document.getElementById('listItemOne').style.border='green';
+document.getElementById('listItemTwo').style.color='red';
+document.getElementsById('listItemThree').style.bold;
+
+
+
 
 document.getElementsByTagName
 
